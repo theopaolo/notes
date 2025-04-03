@@ -7,8 +7,7 @@ tags:
   - flux
 ---
 Ce jardin prend doucement vie.
-Pas encore de fleurs, ni d’abeilles. Juste la terre, fraîche et prête.
-C’est le tout début.
+Pas encore de fleurs, ni d’abeilles.
 
 J’écris mes notes dans Obsidian, sur mon téléphone, et elles se synchronisent automatiquement avec GitHub grâce à l’app Git Sync (mais il existe aussi un plugin Obsidian, je testerais plus tard).
 
