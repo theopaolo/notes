@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hello-again.md",
+                "file": "et-encore-un-de-plus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hello-again"
+              "title": "et-encore-un-de-plus"
             }
           }
         ]
@@ -153,8 +153,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e47fafb40e444af7",
+  "active": "a08dc04635282aa3",
   "lastOpenFiles": [
+    "et-encore-un-de-plus.md",
     "bonjour-jardin.md",
     "Hello-again.md",
     "Untitled"
