@@ -39,14 +39,10 @@
             "id": "a3937fd66dd3dd7f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agastach.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Agastach"
+              "title": "New tab"
             }
           }
         ],
