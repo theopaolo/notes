@@ -1,7 +1,7 @@
 ---
 title: La dérive web comme pratique créative
 date: 2025-04-21
-description: La dérive web comme pratique créative
+description: À la dérive web
 tags:
   - flux
 layout: note.njk
