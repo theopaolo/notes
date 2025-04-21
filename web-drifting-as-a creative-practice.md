@@ -1,13 +1,11 @@
 ---
 title: Web drifting as a creative practice.
 date: 2025-04-21
-description: Digital paychogeographer.
+description: Web drifting as a creative practice
 tags:
   - flux
 layout: note.njk
 ---
-Web drifting as a creative practice.
-
 I love spending hours drifting through the web. Not rushing from one click to the next in search of efficiency or purpose, but wandering like a digital flâneur. A curious walker, moving with the same energy Guy Debord described in his concept of psychogeography [1].
 
 La dérive, as theorized by the Situationist International, invites a person to explore a city by letting themselves be guided by its contours, atmospheres, and ambiances. No map. No goal. Just openness to discovery.
