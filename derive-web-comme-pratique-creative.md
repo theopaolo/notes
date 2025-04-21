@@ -1,5 +1,5 @@
 ---
-title: La dérive web comme pratique créative
+title: À la dérive web
 date: 2025-04-21
 description: À la dérive web
 tags:
