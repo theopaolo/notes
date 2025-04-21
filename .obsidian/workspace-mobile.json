@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web-drifting-as-a creative-practice.md",
+                "file": "derive-web-comme-pratique-creative.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "web-drifting-as-a creative-practice"
+              "title": "derive-web-comme-pratique-creative"
             }
           }
         ],
@@ -198,8 +198,9 @@
   },
   "active": "93178e22a0b0f383",
   "lastOpenFiles": [
-    "terre-fraiche.md",
     "web-drifting-as-a creative-practice.md",
+    "derive-web-comme-pratique-creative.md",
+    "terre-fraiche.md",
     "et-encore-un-de-plus.md",
     "Agastach.md",
     "Untitled",
