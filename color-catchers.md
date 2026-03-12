@@ -37,14 +37,10 @@ Kinopio
 
 Organiser ses pensées dans l'espace. Créé par un dev qui voulait juste son outil.
 
-→ Besoin perso → produit utilisé par d'autres.
-
 PSF (Promis Sans Fautes)
 [Démo live : app.promissansfautes.fr]
 
 Un éditeur pour les gens qui font des fautes. Créé par moi. Parce que j'en avais besoin.
-
-→ Votre prof fait ce qu'il enseigne.
 
 La philosophie
 "Le meilleur logiciel vient d'un besoin personnel."
@@ -58,6 +54,5 @@ Dans cette direction on voit émerger des choses intéressantes, comme glaze ou 
 Référence 
 Homecook software
 Barefoot software 
-
 
 ![rose ciel d'Aix-en-Provence](img/colorcatch.webp)
