@@ -5,54 +5,37 @@ description: Une app pour extraire des palettes de couleur du monde réel
 tags:
   - flux
 layout: note.njk
-draft: "true"
----
-Environs un mois que je bricole une app jouet pour extraire des palettes de couleur du monde réel.
-
-L'idée m'est venu l'ors d'un cours d'initiation au dev web que j'ai animé pour l'école LDLC. À l'occasion j'avais proposé aux étudiants de concevoir un **micro-tools**. 
-
-## Mais c'est quoi un micro-tool ?
-Je dirais que c'est un logiciel fabriqué pour répondre à un besoin précis et parfois juste par plaisir et curiosité.
-
-Avec les IA, les possibilités de développer ses propres mico-outils est décuplé, on voit apparaître de plus en plus de logiciels fait maison sans prétention d'être des produits de consommation de masse.
-
-### Quelques exemples de micro-tool :
-
-Le truc pour convertir les fichiers, les tools designers, antinote, 
-
-**Not Boring Apps**
-[Not boring software](https://notboring.software)
-Andy Allen surprends dans son approche presque "jeu vidéo", en ajoutant 3D, son et animations à des outils numériques basiques comme : une calculatrice, un timer, une app de météo et récemment un application photo. L'assemblage est soigné dans les moindres détails.
-
-
-**Delphitools**
-[Delphi Tools](https://delphi.tools)
-
-Delphi propose une multitude de petits outils fait main. Tout local. Fait par une seule personne.
-
-→ Un outil peut faire UNE chose et bien la faire.
-
-Kinopio
-[Démo live : kinopio.club]
-
-Organiser ses pensées dans l'espace. Créé par un dev qui voulait juste son outil.
-
-PSF (Promis Sans Fautes)
-[Démo live : app.promissansfautes.fr]
-
-Un éditeur pour les gens qui font des fautes. Créé par moi. Parce que j'en avais besoin.
-
-La philosophie
-"Le meilleur logiciel vient d'un besoin personnel."
-
-Pas "qu'est-ce qui pourrait marcher sur le marché" Mais "qu'est-ce qui me manque à moi"
-
+draft: "false"
 ---
 
-Dans cette direction on voit émerger des choses intéressantes, comme glaze ou essential de nothing.
-
-Référence 
-Homecook software
-Barefoot software 
+Environ un mois que je bricole une app jouet pour extraire des palettes de couleur du monde réel.
 
 ![rose ciel d'Aix-en-Provence](img/colorcatch.webp)
+
+L'idée m'est venue lors d'un cours d'initiation au développement web, animé pour l'école LDLC et la proposition aux étudiants de concevoir un **micro-tool**.
+
+## Micro-tool : courte définition personnelle
+
+> Un **petit** logiciel ou bout de code fabriqué en réponse à une envie ou un besoin **précis**.
+
+Dans leur simplicité, les micro-outils sont d'une grande efficacité à l'inverse de logiciels multi-fonctions, complexes, lourds et qui demandent des abonnements ou des licences onéreuses.
+
+## Sélection de micro-tools
+
+- [https://delphi.tools/](https://delphi.tools/)
+- [https://framadate.org/](https://framadate.org/abc/en/)
+- [https://antinote.io/](https://antinote.io/)
+- [https://mklaabs.com/](https://mklaabs.com/)
+- [https://whtifs.com/](https://whtifs.com/)
+- [https://spacetypegenerator.com/](https://spacetypegenerator.com/)
+- [https://upscayl.org/](https://upscayl.org/)
+
+## Et l'IA dans tout ça ?
+
+Le _vibe-coding_, pour le meilleur ou pour le pire, démocratise ce type de développement. Il donne des moyens de création à un public plus large de non-développeurs, à l'instar de la vague "no-code" et, si l'on remonte davantage dans le temps, on pourrait ajouter Flash et le mythique logiciel HyperCard, créé par [Bill Atkinson](https://en.wikipedia.org/wiki/Bill_Atkinson) pour Apple.
+
+Dans cette direction, on voit émerger des produits spécialisés en _vibe-coding_, comme [Glaze](https://www.glazeapp.com/) ou [Essential App](https://playground.nothing.tech/apps) de l'entreprise hardware Nothing, et pour les plus connus : [Lovable](https://lovable.dev/), [V0](https://v0.app/), [Base44](https://base44.com/), [Floot](https://floot.com/) etc…
+
+## Et nous ?
+
+Pour [colorcatchers.co](http://colorcatchers.co), on utilise Claude Code pour nous assister dans le développement ; nous avons un petit workflow avec des _skills_ et des MCP. Sans IA pour nous assister dans le dev, nous n'aurions peut-être pas osé investir autant d'énergie dans une idée aussi "bête" ;).
