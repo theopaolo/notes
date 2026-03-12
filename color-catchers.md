@@ -5,7 +5,6 @@ description: Une app pour extraire des palettes de couleur du monde réel
 tags:
   - flux
 layout: note.njk
-draft: "false"
 ---
 
 Environ un mois que je bricole une app jouet pour extraire des palettes de couleur du monde réel.
