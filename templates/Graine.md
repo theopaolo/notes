@@ -4,4 +4,5 @@ tags:
 date:
 description:
 layout: note.njk
+draft: "true"
 ---
