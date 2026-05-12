@@ -6,7 +6,6 @@ tags:
   - flux
 layout: note.njk
 ---
-
 Environ un mois que je bricole une app jouet pour extraire des palettes de couleur du monde réel.
 
 ![rose ciel d'Aix-en-Provence](img/colorcatch.webp)
