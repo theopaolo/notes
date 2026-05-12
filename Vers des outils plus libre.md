@@ -1,6 +1,9 @@
 ---
 title: Vers des outils plus libre
 tags:
+  - tech
+  - flux
+  - oss
 date: 2026-05-12
 description: On déménage !
 layout: note.njk
