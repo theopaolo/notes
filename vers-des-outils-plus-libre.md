@@ -7,7 +7,6 @@ tags:
 date: 2026-05-12
 description: On déménage !
 layout: note.njk
-draft: "true"
 ---
 
 Cette année, j'ai eu envie de déménager vers des alternatives plus ouvertes et souveraines pour le travail et quotidient. Étant sensible à l'UX, j'ai essayé de trouver des solutions aussi exigeantes dans ce domaine, ce qui n'est pas toujours le cas dans le logiciel libre.
