@@ -3,7 +3,7 @@ title: Logiciel convivial
 description: Reflexion sur outils conviviaux et logiciels conviviaux
 date: 2026-10-11
 layout: note.njk
-draft: "true"
+draft: "false"
 tags:
   - tech
   - oss
